@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BlazingDB at DevOps eam
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about code and Linux
+- 🔭 I’m currently working on BlazingDB at DevOps team
+- 🌱 I’m currently learning Rust and Swift
+- 👯 I’m looking to collaborate on Open Source projects
+- 💬 Ask me about Code, Linux or Cloud
 - 📫 How to reach me: https://twitter.com/mario21ic or https://www.linkedin.com/in/mario21ic
 - 😄 Pronouns: He/Him
 - ⚡ Music: I really like metal \m/
