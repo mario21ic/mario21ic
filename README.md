@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on BlazingDB at DevOps eam
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about code and Linux
+- 📫 How to reach me: https://twitter.com/mario21ic or https://www.linkedin.com/in/mario21ic
+- 😄 Pronouns: He/Him
+- ⚡ Music: I really like metal \m/
+
 <!--
 **mario21ic/mario21ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
