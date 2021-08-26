@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BlazingDB at DevOps team
+- 🔭 I’m currently working on Voltrondata at DevOps team
 - 🌱 I’m currently learning Rust and Swift
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Code, Linux or Cloud
