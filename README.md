@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Voltrondata at DevOps team
-- 🌱 I’m currently learning Rust and Swift
+- 🔭 I’m currently working as DevOps Engineer
+- 🌱 I’m currently learning Carbon
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about Code, Linux or Cloud
+- 💬 Ask me about DevOps, SRE, Linux, Cloud (AWS, GCP), Docker, Kubernetes, CI/CD, Observability, Security, etc
 - 📫 How to reach me: https://twitter.com/mario21ic or https://www.linkedin.com/in/mario21ic
 - 😄 Pronouns: He/Him
 - ⚡ Music: I really like metal \m/
