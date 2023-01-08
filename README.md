@@ -9,7 +9,7 @@
 - ⚡ Music: I really like metal \m/
 
 <img src = "https://github-readme-stats.vercel.app/api?username=mario21ic&&show_icons=true&theme=radical" alt="readme stats">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario21ic&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mario21ic/mario21ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
