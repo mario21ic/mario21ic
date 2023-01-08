@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Music: I really like metal \m/
 
+<img src = "https://github-readme-stats.vercel.app/api?username=mario21ic&&show_icons=true&theme=radical" alt="readme stats">
+
 <!--
 **mario21ic/mario21ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
