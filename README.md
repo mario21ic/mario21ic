@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning Carbon
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about DevOps, SRE, Linux, Cloud (AWS, GCP), Docker, Kubernetes, CI/CD, Observability, Security, etc
-- 📫 How to reach me: https://twitter.com/mario21ic or https://linkedin.com/in/mario21ic
+- 📫 How to reach me:
+  - https://twitter.com/mario21ic
+  - https://linkedin.com/in/mario21ic
+  - https://hackerrank.com/mario21ic 
 - 👨‍💻 Communities DevOps Perú, Cloud Native Perú, Ethical Hacking Perú, Docker Lima 🐳
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: I like listening to music metal and practicing reversing engineering 🤘
