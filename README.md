@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as DevOps Engineer
 - 🌱 I’m currently learning Carbon
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about DevOps, SRE, Linux, Cloud (AWS, GCP), Docker, Kubernetes, CI/CD, Observability, Security, etc
+- 💬 Ask me about CyberSecurity, Cloud (AWS, GCP), DevOps, SRE, Linux, FreeBSD, Docker, Kubernetes, CI/CD, Observability, Homelab, etc
 - 📫 How to reach me:
   - https://twitter.com/mario21ic
   - https://linkedin.com/in/mario21ic
