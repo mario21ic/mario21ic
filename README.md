@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as DevOps Engineer
-- 🌱 I’m currently learning Carbon
+- 🔭 I’m currently working as DevSecOps Engineer
+- 🌱 I’m currently learning AI with Security
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about CyberSecurity, Cloud (AWS, GCP), DevOps, SRE, Linux, FreeBSD, Docker, Kubernetes, CI/CD, Observability, Homelab, etc
+- 💬 Ask me about AI, Machine Learning, Deep Learning, CyberSecurity, Platform Engineering, Cloud (AWS, GCP, Azure), DevOps, DevSecOps, SRE, Linux, FreeBSD, Docker, Kubernetes, CI/CD, MOnitoring, Observability, Homelab, etc
 - 📫 How to reach me:
   - https://twitter.com/mario21ic
   - https://linkedin.com/in/mario21ic
@@ -14,17 +14,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mario21ic&&show_icons=true&theme=radical" alt="readme stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario21ic&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats" alt="language stats" />
-<!--
-**mario21ic/mario21ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
