@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as DevSecOps Engineer
 - 🌱 I’m currently learning AI with Security
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about AI, Machine Learning, Deep Learning, CyberSecurity, Platform Engineering, Cloud (AWS, GCP, Azure), DevOps, DevSecOps, SRE, Linux, FreeBSD, Docker, Kubernetes, CI/CD, MOnitoring, Observability, Homelab, etc
+- 💬 Ask me about AI Engineering, Machine Learning, Deep Learning, CyberSecurity, Platform Engineering, Cloud (AWS, GCP, Azure), DevOps, DevSecOps, SRE, Linux, FreeBSD, Docker, Kubernetes, CI/CD, Monitoring, Observability, Homelab, etc
 - 📫 How to reach me:
   - https://twitter.com/mario21ic
   - https://linkedin.com/in/mario21ic
